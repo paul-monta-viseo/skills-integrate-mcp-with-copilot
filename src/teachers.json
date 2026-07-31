@@ -1,0 +1,14 @@
+{
+  "teachers": {
+    "msmith": {
+      "name": "Ms. Smith",
+      "salt": "359a451548cce76c1d6dddd8554bae04",
+      "password_hash": "5775f043e93de9c04f347697fa68dda8725842b956de27d77247242b896097e0"
+    },
+    "mjohnson": {
+      "name": "Mr. Johnson",
+      "salt": "0ac513a1c81a4a8771a816a8dcc0f450",
+      "password_hash": "b41c8016fea21d9069155c255c6ae66649e9e398a73a2df17bc20e652a3f701d"
+    }
+  }
+}
